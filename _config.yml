@@ -1,7 +1,7 @@
 # Site settings
 title: BY Blog
 SEOTitle: 张庆君的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-rwd.jpg
 email: zhangqingjun920@outlook.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 张庆君的博客, NewStart, 张庆君, Java, vivo"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/zhangqingjun920/zhangqingjun920.github.io.git" 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "认输不是我的性格！"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
