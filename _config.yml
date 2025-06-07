@@ -1,27 +1,26 @@
 # Site settings
-title: My Blog
-SEOTitle: 张庆君的博客 | My Blog
+title: XB Blog
+SEOTitle: 张庆君的博客 | XB Blog
 header-img: img/post-bg-rwd.jpg
 email: zhangqingjun920@outlook.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 张庆君的博客, NewStart, 张庆君, Java, vivo"
+description: "XB Blog."
+keyword: "BY, XB Blog, 张庆君的博客, NewStart, 张庆君"
 url: "https://zhangqingjun920.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/zhangqingjun920/zhangqingjun920.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "认输不是我的性格！"
-sidebar-avatar: /img/avatar-by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "New start."
+sidebar-avatar: /img/about-me-first.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 zhihu_username:     JUNICE
+weibo_username:     雨沉默XB
 github_username:    zhangqingjun920
-xiaohongshu_username: JUNICE920486
-
 
 
 
@@ -83,7 +82,7 @@ ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定�
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
 
