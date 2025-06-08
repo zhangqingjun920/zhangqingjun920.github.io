@@ -60,10 +60,11 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: Ov23liVY2e8CLc78K2ZS                            #生成的clientID
   clientSecret: f3f4a08f225a2095438f9e9e0dc5a8f932687d3e    #生成的clientSecret
-  repo: zhangqingjun920.github.io    #仓库名称
+  repo: zhangqingjun920/zhangqingjun920.github.io    #仓库名称
   owner: zhangqingjun920    #github用户名
   admin: [zhangqingjun920]
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  labels: [“生活”,"study"]
 
 
 # 统计
